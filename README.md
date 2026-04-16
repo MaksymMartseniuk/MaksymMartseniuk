@@ -72,7 +72,7 @@ I work across the full development cycle — from backend and API to frontend an
 
 <p align="center">
   <a href="https://leetcode.com/MaKsUM22">
-    <img src="https://leetcard.jacoblin.cool/ТВІЙ_НІК_НА_LEETCODE?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/MaKsUM22?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats"/>
   </a>
 </p>
 
