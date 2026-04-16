@@ -67,6 +67,16 @@ I work across the full development cycle — from backend and API to frontend an
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
+
+## 📊 Coding Activity & Stats
+
+<p align="center">
+  <a href="https://leetcode.com/MaKsUM22">
+    <img src="https://leetcard.jacoblin.cool/ТВІЙ_НІК_НА_LEETCODE?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
 ## 📌 Featured Projects
 - 📓 **Notes App** — Rich text editor with **Tiptap**, autosave, Redis buffering, Celery background saving, and version history.  
   _Tech: Django, DRF, React, Redis, Celery, PostgreSQL_
